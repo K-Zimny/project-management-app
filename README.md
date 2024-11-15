@@ -26,3 +26,7 @@
 ### Storage
 
 - Persistent Storage with BrowserDB || AWS Lambda?
+
+### Additional Ideas
+
+- Pomodoro timer?
